@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - Software engineer focused on **systems, correctness, and real products**
 - Strong interest in **execution safety, verification, and trust models**
@@ -30,9 +30,9 @@
 
 ---
 
-## ⭐ Featured Projects (Public)
+## Featured Projects (Public)
 
-### 🚀 admit-cli · Go
+### admit-cli · Go
 🔗 https://github.com/vamsiy78/admit-cli
 
 Safety-first launcher primitive that blocks process execution unless configuration invariants are satisfied.
@@ -43,7 +43,7 @@ Safety-first launcher primitive that blocks process execution unless configurati
 
 ---
 
-### 🔐 r0 · TypeScript
+### r0 · TypeScript
 🔗 https://github.com/vamsiy78/r0
 
 Cryptographically verifiable proof that a specific human approved a legal action at a specific time.
@@ -54,7 +54,7 @@ Cryptographically verifiable proof that a specific human approved a legal action
 
 ---
 
-### 🚘 Real-Time Vehicle Number Plate Detection · Python
+### Real-Time Vehicle Number Plate Detection · Python
 🔗 https://github.com/vamsiy78/Real-time-vehicle-plate-detection
 
 - Real-time number plate recognition using **OpenCV + OCR**
@@ -63,7 +63,7 @@ Cryptographically verifiable proof that a specific human approved a legal action
 
 ---
 
-### 🔐 Secure Chat Using RSA Encryption
+### Secure Chat Using RSA Encryption
 🔗 https://github.com/vamsiy78/RSA_Chat_Implementation
 
 - End-to-end encrypted chat using Python sockets
@@ -72,21 +72,21 @@ Cryptographically verifiable proof that a specific human approved a legal action
 
 ---
 
-### 📡 FTP Implementation (Cisco Packet Tracer)
+### FTP Implementation (Cisco Packet Tracer)
 🔗 https://github.com/vamsiy78/FTP_CiscoPacketTracer_Implementation
 
 - FTP simulation demonstrating networking and file transfer fundamentals
 
 ---
 
-### 🔊 VoiceText
+### VoiceText
 🔗 https://github.com/vamsiy78/Voicetext
 
 - Voice-to-text and text-to-speech automation utility
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -117,18 +117,6 @@ Cryptographically verifiable proof that a specific human approved a legal action
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsiy78&count_private=false&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsiy78&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
